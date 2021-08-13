@@ -6,6 +6,10 @@
 <br><br>
 <details>
   <summary>Skills</summary>
-  <p>JavaScript, Java, C#, C++, Python, PHP, HTML, CSS, SQL, Objective-C, Swift, C, C++, C, C#</p>
+    <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg"/>
+    </a>
+  </p>
 </details>
 
